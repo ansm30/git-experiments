@@ -1,7 +1,1 @@
 # git-experiments
-
-
-Hi
-This is second commit
-
-This is third commit
